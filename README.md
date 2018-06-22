@@ -21,7 +21,7 @@ If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full ha
 
 Directories are compared using Merkle trees,
 read [here](https://github.com/DennisYurichev/DDFF2/blob/master/compare_two_folders.md) about my short example, what this is.
-Merkle trees are also used in torrents.
+Merkle trees are also used in torrents and blockchain.
 I.e., SHA256 hash is also calculated for all directories.
 
 File hashes are then stored (serialized) into ddff.db file (Python's pickle library is used).
