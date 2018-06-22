@@ -19,6 +19,10 @@ Just run it:
 
 	./ddff.py ~
 
+Or:
+
+	python ddff.py ~
+
 Multiple directories allowed:
 
 	./ddff.py ~/Music /mnt/external_HDD/Music
