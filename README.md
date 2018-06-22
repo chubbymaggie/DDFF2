@@ -13,6 +13,18 @@ Here is an example: the script processed Linux kernel source trees for versions
 https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt
 Now you can see what hasn't been modified across several Linux kernel versions (larger than 100KB).
 
+## For users
+
+Just run it:
+
+	./ddff.py ~
+
+Multiple directories allowed:
+
+	./ddff.py ~/Music /mnt/external_HDD/Music
+
+## Internals, etc
+
 Files are not compared as a wholes, rather 5 4Kb consequtive spots are taken from it and then hashed using SHA256.
 Hashes are then compared.
 Surely, file/directory names are not compared.
@@ -47,5 +59,7 @@ Or write new, using these algorithms.
 Also, my old C++ version is [here](https://github.com/DennisYurichev/DDFF).
 It's not maintained, and I've written it just to have a feel of new C++11 features.
 
-Download: https://github.com/DennisYurichev/DDFF2/blob/master/ddff.py
+## Download
+
+https://github.com/DennisYurichev/DDFF2/blob/master/ddff.py
 
