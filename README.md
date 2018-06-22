@@ -24,9 +24,10 @@ read [here](https://github.com/DennisYurichev/DDFF2/blob/master/compare_two_fold
 Merkle trees are also used in torrents and blockchains.
 I.e., SHA256 hash is also calculated for all directories.
 
-File hashes are then stored (serialized) into ddff.db file (Python's pickle library is used).
-This is a text file, you can see there filenames, SHA256 hashes, modify time for each file and which hash (full/partial)
-is stored.
+File hashes are then stored (serialized) into ddff.db file
+(Python's [pickle library](https://docs.python.org/3/library/pickle.html) is used).
+This is a text file, you can see there filename, SHA256 hashe, file size, modify time for each file,
+ and which hash (full/partial) is stored.
 Preserve it, so DDFF will not need to reread a file again.
 However, if you reorganize your file structure significantly, you can kill it.
 
