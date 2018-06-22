@@ -1,0 +1,1210 @@
+* dir size=5.9MB
+/home/dennis/tmp/1/linux-4.1.22/firmware
+/home/dennis/tmp/1/linux-3.18.37/firmware
+* dir size=3.5MB
+/home/dennis/tmp/1/linux-4.1.22/fs/nls
+/home/dennis/tmp/1/linux-4.11/fs/nls
+/home/dennis/tmp/1/linux-3.18.37/fs/nls
+* dir size=2.3MB
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060
+* dir size=1.8MB
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/src
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/src
+* dir size=1.7MB
+/home/dennis/tmp/1/linux-4.1.22/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.10.43/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.2.1/firmware/bnx2x
+/home/dennis/tmp/1/linux-4.11/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.18.37/firmware/bnx2x
+* dir size=1.1MB
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/arch/hwregs
+* file size=1.1MB
+/home/dennis/tmp/1/linux-4.1.22/crypto/testmgr.h
+/home/dennis/tmp/1/linux-3.18.37/crypto/testmgr.h
+* file size=1.0MB
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+/home/dennis/tmp/1/linux-4.11/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+* dir size=926.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/logo
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/logo
+* dir size=926.4Kb
+/home/dennis/tmp/1/linux-3.2.1/drivers/video/logo
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/logo
+* file size=875.3Kb
+/home/dennis/tmp/1/linux-3.10.43/fs/nls/nls_cp949.c
+/home/dennis/tmp/1/linux-3.2.1/fs/nls/nls_cp949.c
+/home/dennis/tmp/1/linux-2.6.26/fs/nls/nls_cp949.c
+/home/dennis/tmp/1/linux-2.6.31/fs/nls/nls_cp949.c
+* dir size=845.9Kb
+/home/dennis/tmp/1/linux-4.1.22/lib/fonts
+/home/dennis/tmp/1/linux-3.18.37/lib/fonts
+* dir size=824.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf548/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf548/include
+* file size=802.0Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/misc/emi62_fw_s.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/misc/emi62_fw_s.h
+* file size=795.7Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/misc/emi62_fw_m.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/misc/emi62_fw_m.h
+* dir size=732.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/arch/hwregs/iop
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/arch/hwregs/iop
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/arch/hwregs/iop
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/arch/hwregs/iop
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/arch/hwregs/iop
+* dir size=732.7Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/hwregs/iop
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/arch/hwregs/iop
+* file size=698.3Kb
+/home/dennis/tmp/1/linux-3.10.43/fs/nls/nls_cp936.c
+/home/dennis/tmp/1/linux-3.2.1/fs/nls/nls_cp936.c
+/home/dennis/tmp/1/linux-2.6.26/fs/nls/nls_cp936.c
+/home/dennis/tmp/1/linux-2.6.31/fs/nls/nls_cp936.c
+* dir size=638.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/rtlwifi/btcoexist
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/rtlwifi/btcoexist
+* file size=593.9Kb
+/home/dennis/tmp/1/linux-3.10.43/fs/nls/nls_cp950.c
+/home/dennis/tmp/1/linux-3.2.1/fs/nls/nls_cp950.c
+/home/dennis/tmp/1/linux-2.6.26/fs/nls/nls_cp950.c
+/home/dennis/tmp/1/linux-2.6.31/fs/nls/nls_cp950.c
+* dir size=593.4Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/bnx2
+/home/dennis/tmp/1/linux-3.10.43/firmware/bnx2
+/home/dennis/tmp/1/linux-3.2.1/firmware/bnx2
+/home/dennis/tmp/1/linux-4.11/firmware/bnx2
+/home/dennis/tmp/1/linux-3.18.37/firmware/bnx2
+* dir size=587.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf609/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf609/include
+* file size=580.6Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/misc/emi26_fw.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/misc/emi26_fw.h
+* dir size=571.2Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/radeon
+/home/dennis/tmp/1/linux-3.10.43/firmware/radeon
+/home/dennis/tmp/1/linux-3.2.1/firmware/radeon
+/home/dennis/tmp/1/linux-4.11/firmware/radeon
+/home/dennis/tmp/1/linux-3.18.37/firmware/radeon
+* dir size=535.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/mach-a3/mach
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/mach-a3/mach
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/mach-a3/mach
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/mach-a3/mach
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/mach-a3/mach
+* dir size=535.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/mach-a3
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/mach-a3
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/mach-a3
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/mach-a3
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/mach-a3
+* dir size=533.6Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/mach-a3
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/mach-a3/mach
+* dir size=529.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/mach-a3/hwregs
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/mach-a3/mach/hwregs
+* file size=521.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/b43/radio_2056.c
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/broadcom/b43/radio_2056.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/b43/radio_2056.c
+* dir size=496.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf537
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf537
+* file size=491.2Kb
+/home/dennis/tmp/1/linux-3.10.43/fs/nls/nls_cp932.c
+/home/dennis/tmp/1/linux-3.2.1/fs/nls/nls_cp932.c
+/home/dennis/tmp/1/linux-2.6.26/fs/nls/nls_cp932.c
+/home/dennis/tmp/1/linux-2.6.31/fs/nls/nls_cp932.c
+* dir size=476.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/message/fusion/lsi
+/home/dennis/tmp/1/linux-3.10.43/drivers/message/fusion/lsi
+/home/dennis/tmp/1/linux-4.11/drivers/message/fusion/lsi
+/home/dennis/tmp/1/linux-3.18.37/drivers/message/fusion/lsi
+* dir size=466.0Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/fpsp040
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/fpsp040
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/fpsp040
+/home/dennis/tmp/1/linux-4.11/arch/m68k/fpsp040
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/fpsp040
+* dir size=462.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/parisc/math-emu
+/home/dennis/tmp/1/linux-3.18.37/arch/parisc/math-emu
+* dir size=454.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/hwregs/iop/asm
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/arch/hwregs/iop/asm
+* file size=446.1Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/isdn/hardware/eicon/message.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/isdn/hardware/eicon/message.c
+* dir size=424.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/infiniband/hw/mthca
+/home/dennis/tmp/1/linux-3.18.37/drivers/infiniband/hw/mthca
+* dir size=414.2Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/acenic
+/home/dennis/tmp/1/linux-3.10.43/firmware/acenic
+/home/dennis/tmp/1/linux-3.2.1/firmware/acenic
+/home/dennis/tmp/1/linux-4.11/firmware/acenic
+/home/dennis/tmp/1/linux-2.6.31/firmware/acenic
+/home/dennis/tmp/1/linux-3.18.37/firmware/acenic
+* file size=399.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/radeon/atombios.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/radeon/atombios.h
+* dir size=396.9Kb
+/home/dennis/tmp/1/linux-4.1.22/scripts/dtc
+/home/dennis/tmp/1/linux-3.18.37/scripts/dtc
+* dir size=377.2Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/emi62
+/home/dennis/tmp/1/linux-4.11/firmware/emi62
+/home/dennis/tmp/1/linux-3.18.37/firmware/emi62
+* dir size=376.5Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-mips/sibyte
+/home/dennis/tmp/1/linux-2.6.31/arch/mips/include/asm/sibyte
+* file size=366.9Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/scsi/aic7xxx_old.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/scsi/aic7xxx_old.c
+* dir size=362.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/ia64/include/asm/sn
+/home/dennis/tmp/1/linux-3.18.37/arch/ia64/include/asm/sn
+* dir size=361.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wimax
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wimax
+* dir size=354.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/sh/kernel/cpu/sh4a
+/home/dennis/tmp/1/linux-3.18.37/arch/sh/kernel/cpu/sh4a
+* dir size=352.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/sibyte
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/sibyte
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/sibyte
+* file size=346.2Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/video/sis/init301.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/sis/init301.c
+* file size=342.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/sis/init301.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/sis/init301.c
+* file size=342.4Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/video/sis/init301.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/video/sis/init301.c
+* dir size=339.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf538
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf538
+* dir size=332.1Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/qlogic
+/home/dennis/tmp/1/linux-3.10.43/firmware/qlogic
+/home/dennis/tmp/1/linux-3.2.1/firmware/qlogic
+/home/dennis/tmp/1/linux-4.11/firmware/qlogic
+/home/dennis/tmp/1/linux-3.18.37/firmware/qlogic
+* dir size=323.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf537/include/mach
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf537/include/mach
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf537/include/mach
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf537/include/mach
+* dir size=323.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf537/include
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf537/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf537/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf537/include
+* dir size=318.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/mpt3sas/mpi
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/mpt3sas/mpi
+* dir size=308.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/uapi/arch-v10
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/uapi/arch-v10
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/uapi/arch-v10
+* file size=308.1Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-3.10.43/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-2.6.11.10/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-3.2.1/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-2.6.26/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-4.11/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-2.6.31/sound/pci/nm256/nm256_coef.c
+/home/dennis/tmp/1/linux-3.18.37/sound/pci/nm256/nm256_coef.c
+* file size=305.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/ft1000/ft1000-pcmcia/ft1000.img
+/home/dennis/tmp/1/linux-3.10.43/drivers/staging/ft1000/ft1000-pcmcia/ft1000.img
+/home/dennis/tmp/1/linux-3.2.1/drivers/staging/ft1000/ft1000-pcmcia/ft1000.img
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/ft1000/ft1000-pcmcia/ft1000.img
+* dir size=305.7Kb
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf527/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf527/include
+* dir size=305.4Kb
+/home/dennis/tmp/1/linux-4.1.22/include/linux/mfd/wm8994
+/home/dennis/tmp/1/linux-4.11/include/linux/mfd/wm8994
+/home/dennis/tmp/1/linux-3.18.37/include/linux/mfd/wm8994
+* dir size=305.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf527/include/mach
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf527/include/mach
+* dir size=305.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf527/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf527/include
+* dir size=303.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf538/include
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf538/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf538/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf538/include
+* dir size=300.9Kb
+/home/dennis/tmp/1/linux-3.10.43/firmware/emi62
+/home/dennis/tmp/1/linux-3.2.1/firmware/emi62
+/home/dennis/tmp/1/linux-2.6.31/firmware/emi62
+* file size=299.7Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/scsi/aic7xxx/aic79xx_core.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/aic7xxx/aic79xx_core.c
+* file size=299.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/uapi/arch-v10/arch/sv_addr.agh
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/uapi/arch-v10/arch/sv_addr.agh
+/home/dennis/tmp/1/linux-2.6.11.10/include/asm-cris/arch-v10/sv_addr.agh
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v10/arch/sv_addr.agh
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v10/sv_addr.agh
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/uapi/arch-v10/arch/sv_addr.agh
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v10/arch/sv_addr.agh
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/uapi/arch-v10/arch/sv_addr.agh
+* file size=293.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-4.11/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/src/fplsp.S
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060/src/fplsp.S
+* dir size=292.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/matrox
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/matrox
+* file size=289.2Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm5100.h
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm5100.h
+/home/dennis/tmp/1/linux-4.11/sound/soc/codecs/wm5100.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm5100.h
+* dir size=288.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/68000
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/68000
+* file size=287.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/lustre/lustre/ptlrpc/wiretest.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/lustre/lustre/ptlrpc/wiretest.c
+* dir size=287.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf518
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf518
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf518
+* dir size=285.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/infiniband/hw/cxgb3
+/home/dennis/tmp/1/linux-3.18.37/drivers/infiniband/hw/cxgb3
+* file size=280.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/ft1000/ft1000-usb/ft3000.img
+/home/dennis/tmp/1/linux-3.10.43/drivers/staging/ft1000/ft1000-usb/ft3000.img
+/home/dennis/tmp/1/linux-3.2.1/drivers/staging/ft1000/ft1000-usb/ft3000.img
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/ft1000/ft1000-usb/ft3000.img
+* file size=265.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/block/DAC960.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/block/DAC960.c
+* dir size=261.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/rc/keymaps
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/rc/keymaps
+* file size=259.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/gspca/zc3xx.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/gspca/zc3xx.c
+* dir size=255.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/sparc/lib
+/home/dennis/tmp/1/linux-3.18.37/arch/sparc/lib
+* file size=252.2Kb
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm8995.h
+/home/dennis/tmp/1/linux-3.2.1/sound/soc/codecs/wm8995.h
+* file size=252.1Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm8995.h
+/home/dennis/tmp/1/linux-4.11/sound/soc/codecs/wm8995.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm8995.h
+* file size=251.5Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-blackfin/mach-bf548/defBF54x_base.h
+/home/dennis/tmp/1/linux-2.6.31/arch/blackfin/mach-bf548/include/mach/defBF54x_base.h
+* dir size=249.4Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/emi26
+/home/dennis/tmp/1/linux-3.10.43/firmware/emi26
+/home/dennis/tmp/1/linux-3.2.1/firmware/emi26
+/home/dennis/tmp/1/linux-4.11/firmware/emi26
+/home/dennis/tmp/1/linux-2.6.31/firmware/emi26
+/home/dennis/tmp/1/linux-3.18.37/firmware/emi26
+* dir size=247.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf561/include
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf561/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf561/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf561/include
+* file size=242.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/message/fusion/mptbase.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/message/fusion/mptbase.c
+* dir size=240.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf518/include
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf518/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf518/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf518/include
+* dir size=239.1Kb
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/platform/68EZ328
+/home/dennis/tmp/1/linux-2.6.26/arch/m68knommu/platform/68EZ328
+/home/dennis/tmp/1/linux-2.6.31/arch/m68knommu/platform/68EZ328
+* dir size=237.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/rtl818x
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/rtl818x
+* file size=236.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/68000/bootlogo-vz.h
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/platform/68000/bootlogo-vz.h
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/68000/bootlogo-vz.h
+* file size=236.9Kb
+/home/dennis/tmp/1/linux-2.6.11.10/arch/m68knommu/platform/68EZ328/bootlogo.h
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/platform/68EZ328/bootlogo.h
+/home/dennis/tmp/1/linux-2.6.26/arch/m68knommu/platform/68EZ328/bootlogo.h
+/home/dennis/tmp/1/linux-2.6.31/arch/m68knommu/platform/68EZ328/bootlogo.h
+* file size=235.9Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/staging/rtl8192e/rtl8192e/r8192E_hwimg.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/staging/rtl8192e/r8192E_hwimg.c
+* file size=235.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/tty/synclink.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/tty/synclink.c
+* file size=234.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/neterion/vxge/vxge-reg.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/ethernet/neterion/vxge/vxge-reg.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/ethernet/neterion/vxge/vxge-reg.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/neterion/vxge/vxge-reg.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/neterion/vxge/vxge-reg.h
+* file size=231.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/octeon/cvmx-gmxx-defs.h
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/octeon/cvmx-gmxx-defs.h
+/home/dennis/tmp/1/linux-4.11/arch/mips/include/asm/octeon/cvmx-gmxx-defs.h
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/octeon/cvmx-gmxx-defs.h
+* file size=226.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/powerpc/xmon/ppc-opc.c
+/home/dennis/tmp/1/linux-3.10.43/arch/powerpc/xmon/ppc-opc.c
+/home/dennis/tmp/1/linux-3.18.37/arch/powerpc/xmon/ppc-opc.c
+* file size=226.2Kb
+/home/dennis/tmp/1/linux-3.2.1/arch/powerpc/xmon/ppc-opc.c
+/home/dennis/tmp/1/linux-2.6.26/arch/powerpc/xmon/ppc-opc.c
+/home/dennis/tmp/1/linux-2.6.31/arch/powerpc/xmon/ppc-opc.c
+* dir size=225.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/arch/hwregs/asm
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/arch/hwregs/asm
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/arch/hwregs/asm
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/arch/hwregs/asm
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/arch/hwregs/asm
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/arch/hwregs/asm
+* file size=221.6Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm8996.h
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm8996.h
+/home/dennis/tmp/1/linux-4.11/sound/soc/codecs/wm8996.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm8996.h
+* dir size=219.5Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/fddi/skfp/h
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/fddi/skfp/h
+* dir size=219.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/fddi/skfp/h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/fddi/skfp/h
+* file size=218.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/octeon/cvmx-ciu-defs.h
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/octeon/cvmx-ciu-defs.h
+/home/dennis/tmp/1/linux-4.11/arch/mips/include/asm/octeon/cvmx-ciu-defs.h
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/octeon/cvmx-ciu-defs.h
+* dir size=216.3Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/video/riva
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/riva
+* file size=216.3Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/scsi/aic7xxx/aic7xxx_core.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/aic7xxx/aic7xxx_core.c
+* file size=215.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/ncr53c8xx.c
+/home/dennis/tmp/1/linux-4.11/drivers/scsi/ncr53c8xx.c
+* file size=215.4Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm8962.h
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm8962.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm8962.h
+* dir size=215.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/prism54
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/prism54
+* file size=214.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf609/include/mach/cdefBF60x_base.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf609/include/mach/cdefBF60x_base.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf609/include/mach/cdefBF60x_base.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf609/include/mach/cdefBF60x_base.h
+* dir size=212.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf533
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf533
+* dir size=209.9Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/myricom
+/home/dennis/tmp/1/linux-3.10.43/firmware/myricom
+/home/dennis/tmp/1/linux-3.2.1/firmware/myricom
+/home/dennis/tmp/1/linux-4.11/firmware/myricom
+/home/dennis/tmp/1/linux-2.6.31/firmware/myricom
+/home/dennis/tmp/1/linux-3.18.37/firmware/myricom
+* dir size=208.2Kb
+/home/dennis/tmp/1/linux-2.6.26/arch/alpha/lib
+/home/dennis/tmp/1/linux-2.6.31/arch/alpha/lib
+* dir size=206.0Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/isdn
+/home/dennis/tmp/1/linux-3.10.43/Documentation/isdn
+/home/dennis/tmp/1/linux-3.18.37/Documentation/isdn
+* file size=205.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/pci/saa7134/saa7134-cards.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/pci/saa7134/saa7134-cards.c
+* file size=203.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/b43/phy_n.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/b43/phy_n.c
+* file size=201.8Kb
+/home/dennis/tmp/1/linux-4.1.22/net/sctp/sm_statefuns.c
+/home/dennis/tmp/1/linux-3.18.37/net/sctp/sm_statefuns.c
+* file size=200.5Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/scsi/FlashPoint.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/scsi/FlashPoint.c
+* file size=200.5Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/scsi/FlashPoint.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/scsi/FlashPoint.c
+* dir size=200.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/sn
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/sn
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/sn
+* dir size=200.2Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/fb
+/home/dennis/tmp/1/linux-3.18.37/Documentation/fb
+* dir size=200.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/misc/sgi-gru
+/home/dennis/tmp/1/linux-3.18.37/drivers/misc/sgi-gru
+* file size=197.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/FlashPoint.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/FlashPoint.c
+* dir size=195.0Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/sound/oss
+/home/dennis/tmp/1/linux-3.18.37/Documentation/sound/oss
+* dir size=193.5Kb
+/home/dennis/tmp/1/linux-4.1.22/scripts/genksyms
+/home/dennis/tmp/1/linux-3.18.37/scripts/genksyms
+* dir size=193.5Kb
+/home/dennis/tmp/1/linux-3.2.1/firmware/3com
+/home/dennis/tmp/1/linux-2.6.31/firmware/3com
+* dir size=193.1Kb
+/home/dennis/tmp/1/linux-4.1.22/include/linux/mfd/wm831x
+/home/dennis/tmp/1/linux-3.10.43/include/linux/mfd/wm831x
+/home/dennis/tmp/1/linux-4.11/include/linux/mfd/wm831x
+/home/dennis/tmp/1/linux-3.18.37/include/linux/mfd/wm831x
+* file size=192.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/radeon/radeon_reg.h
+/home/dennis/tmp/1/linux-4.11/drivers/gpu/drm/radeon/radeon_reg.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/radeon/radeon_reg.h
+* file size=185.8Kb
+/home/dennis/tmp/1/linux-4.1.22/lib/fonts/font_sun12x22.c
+/home/dennis/tmp/1/linux-3.10.43/drivers/video/console/font_sun12x22.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/video/console/font_sun12x22.c
+/home/dennis/tmp/1/linux-2.6.26/drivers/video/console/font_sun12x22.c
+/home/dennis/tmp/1/linux-4.11/lib/fonts/font_sun12x22.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/console/font_sun12x22.c
+/home/dennis/tmp/1/linux-3.18.37/lib/fonts/font_sun12x22.c
+* file size=185.3Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm2200.h
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm2200.h
+/home/dennis/tmp/1/linux-4.11/sound/soc/codecs/wm2200.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm2200.h
+* dir size=182.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/alpha/lib
+/home/dennis/tmp/1/linux-3.18.37/arch/alpha/lib
+* file size=181.3Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/char/drm/mga_ucode.h
+/home/dennis/tmp/1/linux-2.6.31/drivers/gpu/drm/mga/mga_ucode.h
+* file size=181.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/bfa/bfa_fcs_lport.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/bfa/bfa_fcs_lport.c
+* dir size=180.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/char/pcmcia
+/home/dennis/tmp/1/linux-3.18.37/drivers/char/pcmcia
+* dir size=180.0Kb
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/mach-fs
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/mach-fs
+* dir size=180.0Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/via
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/via
+* dir size=179.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/mach-fs
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/mach-fs
+* dir size=178.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m32r/platforms
+/home/dennis/tmp/1/linux-3.10.43/arch/m32r/platforms
+/home/dennis/tmp/1/linux-3.18.37/arch/m32r/platforms
+* file size=177.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/octeon/cvmx-ciu2-defs.h
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/octeon/cvmx-ciu2-defs.h
+/home/dennis/tmp/1/linux-4.11/arch/mips/include/asm/octeon/cvmx-ciu2-defs.h
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/octeon/cvmx-ciu2-defs.h
+* dir size=176.9Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/mach-fs
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/mach-fs/mach
+* file size=173.8Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/char/ip2/fip_firm.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/char/ip2/fip_firm.h
+* file size=173.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-2.6.11.10/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-4.11/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/fpsp.sa
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060/fpsp.sa
+* file size=173.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/broadcom/cnic_defs.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/broadcom/cnic_defs.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/broadcom/cnic_defs.h
+* dir size=173.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+/home/dennis/tmp/1/linux-3.2.1/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+/home/dennis/tmp/1/linux-2.6.26/include/asm-cris/arch-v32/mach-fs/hwregs
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+/home/dennis/tmp/1/linux-2.6.31/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/mach-fs/mach/hwregs
+* dir size=172.5Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/keyspan
+/home/dennis/tmp/1/linux-3.10.43/firmware/keyspan
+/home/dennis/tmp/1/linux-3.2.1/firmware/keyspan
+/home/dennis/tmp/1/linux-4.11/firmware/keyspan
+/home/dennis/tmp/1/linux-2.6.31/firmware/keyspan
+/home/dennis/tmp/1/linux-3.18.37/firmware/keyspan
+* file size=171.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/bfa/bfa_svc.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/bfa/bfa_svc.c
+* dir size=167.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/tile/include/uapi/arch
+/home/dennis/tmp/1/linux-3.18.37/arch/tile/include/uapi/arch
+* file size=166.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf548/include/mach/defBF54x_base.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf548/include/mach/defBF54x_base.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf548/include/mach/defBF54x_base.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf548/include/mach/defBF54x_base.h
+* dir size=166.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/cpia2
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/cpia2
+* file size=165.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf548/include/mach/cdefBF54x_base.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf548/include/mach/cdefBF54x_base.h
+/home/dennis/tmp/1/linux-3.2.1/arch/blackfin/mach-bf548/include/mach/cdefBF54x_base.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf548/include/mach/cdefBF54x_base.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf548/include/mach/cdefBF54x_base.h
+* file size=164.8Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/serial/whiteheat_fw.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/serial/whiteheat_fw.h
+* file size=164.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/bfa/bfa_ioc.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/bfa/bfa_ioc.c
+* file size=163.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/infiniband/hw/qib/qib_7322_regs.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/infiniband/hw/qib/qib_7322_regs.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/infiniband/hw/qib/qib_7322_regs.h
+/home/dennis/tmp/1/linux-4.11/drivers/infiniband/hw/qib/qib_7322_regs.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/infiniband/hw/qib/qib_7322_regs.h
+* dir size=163.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/msm
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/msm
+* dir size=161.3Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/fscache
+/home/dennis/tmp/1/linux-3.18.37/fs/fscache
+* file size=161.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/intel/e1000/e1000_hw.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/intel/e1000/e1000_hw.c
+* file size=161.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/b43/tables_nphy.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/b43/tables_nphy.c
+* file size=156.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/isdn/hardware/mISDN/hfcmulti.c
+/home/dennis/tmp/1/linux-3.10.43/drivers/isdn/hardware/mISDN/hfcmulti.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/isdn/hardware/mISDN/hfcmulti.c
+* file size=155.8Kb
+/home/dennis/tmp/1/linux-3.10.43/sound/pci/cs46xx/cs46xx_image.h
+/home/dennis/tmp/1/linux-2.6.11.10/sound/pci/cs46xx/cs46xx_image.h
+/home/dennis/tmp/1/linux-3.2.1/sound/pci/cs46xx/cs46xx_image.h
+/home/dennis/tmp/1/linux-2.6.26/sound/pci/cs46xx/cs46xx_image.h
+/home/dennis/tmp/1/linux-2.6.31/sound/pci/cs46xx/cs46xx_image.h
+* file size=155.6Kb
+/home/dennis/tmp/1/linux-4.1.22/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-4.11/net/llc/llc_c_st.c
+* file size=154.4Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/net/e1000/e1000_hw.h
+/home/dennis/tmp/1/linux-2.6.31/drivers/net/e1000/e1000_hw.h
+* file size=153.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/b43/tables_lpphy.c
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/wireless/b43/tables_lpphy.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/wireless/b43/tables_lpphy.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/b43/tables_lpphy.c
+* file size=153.4Kb
+/home/dennis/tmp/1/linux-3.10.43/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-2.6.11.10/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-3.2.1/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-2.6.26/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-2.6.31/net/llc/llc_c_st.c
+/home/dennis/tmp/1/linux-3.18.37/net/llc/llc_c_st.c
+* file size=152.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/block/cciss.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/block/cciss.c
+* file size=152.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/skein/threefish_block.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/skein/threefish_block.c
+* file size=151.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-4.11/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-2.6.31/drivers/block/DAC960.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/block/DAC960.h
+* dir size=151.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/infiniband/hw/usnic
+/home/dennis/tmp/1/linux-3.18.37/drivers/infiniband/hw/usnic
+* file size=150.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/tty/synclinkmp.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/tty/synclinkmp.c
+* file size=147.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/sym53c8xx_2/sym_hipd.c
+/home/dennis/tmp/1/linux-4.11/drivers/scsi/sym53c8xx_2/sym_hipd.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/sym53c8xx_2/sym_hipd.c
+* file size=147.4Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/scsi/sym53c8xx_2/sym_hipd.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/scsi/sym53c8xx_2/sym_hipd.c
+* file size=146.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/ath/ath9k/ar9002_initvals.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/ath/ath9k/ar9002_initvals.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/ath/ath9k/ar9002_initvals.h
+* dir size=145.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/clk/spear
+/home/dennis/tmp/1/linux-3.18.37/drivers/clk/spear
+* dir size=145.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/radeon/reg_srcs
+/home/dennis/tmp/1/linux-4.11/drivers/gpu/drm/radeon/reg_srcs
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/radeon/reg_srcs
+* file size=145.7Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/scsi/dc395x.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/scsi/dc395x.c
+* file size=145.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/arm/boot/dts/imx6sx-pinfunc.h
+/home/dennis/tmp/1/linux-3.18.37/arch/arm/boot/dts/imx6sx-pinfunc.h
+* dir size=144.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/isdn/hardware/avm
+/home/dennis/tmp/1/linux-3.10.43/drivers/isdn/hardware/avm
+/home/dennis/tmp/1/linux-3.18.37/drivers/isdn/hardware/avm
+* file size=144.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/dc395x.c
+/home/dennis/tmp/1/linux-4.11/drivers/scsi/dc395x.c
+* file size=144.0Kb
+/home/dennis/tmp/1/linux-4.1.22/lib/fonts/font_10x18.c
+/home/dennis/tmp/1/linux-3.10.43/drivers/video/console/font_10x18.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/video/console/font_10x18.c
+/home/dennis/tmp/1/linux-2.6.26/drivers/video/console/font_10x18.c
+/home/dennis/tmp/1/linux-4.11/lib/fonts/font_10x18.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/console/font_10x18.c
+/home/dennis/tmp/1/linux-3.18.37/lib/fonts/font_10x18.c
+* file size=141.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/block/skd_main.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/block/skd_main.c
+* file size=141.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/scsi_transport_iscsi.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/scsi_transport_iscsi.c
+* dir size=141.6Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mn10300/mm
+/home/dennis/tmp/1/linux-3.18.37/arch/mn10300/mm
+* file size=139.7Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/dvb-frontends/stv090x.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/stv090x.c
+* file size=137.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/gspca/ov519.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/gspca/ov519.c
+* file size=137.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-3.10.43/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-3.2.1/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-2.6.26/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-4.11/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-2.6.31/arch/parisc/kernel/perf_images.h
+/home/dennis/tmp/1/linux-3.18.37/arch/parisc/kernel/perf_images.h
+* file size=137.0Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf538/include/mach/cdefBF538.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf538/include/mach/cdefBF538.h
+/home/dennis/tmp/1/linux-3.2.1/arch/blackfin/mach-bf538/include/mach/cdefBF538.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf538/include/mach/cdefBF538.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf538/include/mach/cdefBF538.h
+* file size=136.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/neterion/vxge/vxge-config.c
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/neterion/vxge/vxge-config.c
+* file size=136.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/intel/e1000/e1000_hw.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/intel/e1000/e1000_hw.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/intel/e1000/e1000_hw.h
+* file size=136.0Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/mips/include/asm/octeon/cvmx-mio-defs.h
+/home/dennis/tmp/1/linux-3.10.43/arch/mips/include/asm/octeon/cvmx-mio-defs.h
+/home/dennis/tmp/1/linux-3.18.37/arch/mips/include/asm/octeon/cvmx-mio-defs.h
+* dir size=135.7Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/edgeport
+/home/dennis/tmp/1/linux-3.10.43/firmware/edgeport
+/home/dennis/tmp/1/linux-3.2.1/firmware/edgeport
+/home/dennis/tmp/1/linux-4.11/firmware/edgeport
+/home/dennis/tmp/1/linux-2.6.31/firmware/edgeport
+/home/dennis/tmp/1/linux-3.18.37/firmware/edgeport
+* dir size=135.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/arch-v10/drivers
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/arch-v10/drivers
+* file size=135.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/tty/synclink_gt.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/tty/synclink_gt.c
+* file size=135.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/brcm80211/brcmsmac/phy/phytbl_n.c
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/wireless/brcm80211/brcmsmac/phy/phytbl_n.c
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/wireless/brcm80211/brcmsmac/phy/phytbl_n.c
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/broadcom/brcm80211/brcmsmac/phy/phytbl_n.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/brcm80211/brcmsmac/phy/phytbl_n.c
+* file size=134.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/x86/include/asm/uv/uv_mmrs.h
+/home/dennis/tmp/1/linux-3.18.37/arch/x86/include/asm/uv/uv_mmrs.h
+* dir size=133.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/sis
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/sis
+* file size=133.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/pinctrl/sh-pfc/pfc-r8a7779.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/pinctrl/sh-pfc/pfc-r8a7779.c
+* file size=133.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/iwlwifi/dvm/commands.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/iwlwifi/dvm/commands.h
+* dir size=133.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf533/include/mach
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf533/include/mach
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf533/include/mach
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf533/include/mach
+* dir size=133.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf533/include
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf533/include
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf533/include
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf533/include
+* file size=132.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/brcm80211/brcmsmac/phy/phy_lcn.c
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/broadcom/brcm80211/brcmsmac/phy/phy_lcn.c
+* file size=132.0Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/infiniband/hw/nes/nes_hw.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/infiniband/hw/nes/nes_hw.c
+* dir size=131.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/ia64/hp
+/home/dennis/tmp/1/linux-3.18.37/arch/ia64/hp
+* dir size=131.2Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/scsi/aic7xxx_old
+/home/dennis/tmp/1/linux-2.6.31/drivers/scsi/aic7xxx_old
+* dir size=131.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/intelfb
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/intelfb
+* file size=130.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/BusLogic.c
+/home/dennis/tmp/1/linux-4.11/drivers/scsi/BusLogic.c
+* file size=130.4Kb
+/home/dennis/tmp/1/linux-2.6.26/include/asm-ia64/sn/shubio.h
+/home/dennis/tmp/1/linux-2.6.31/arch/ia64/include/asm/sn/shubio.h
+* file size=130.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/ia64/include/asm/sn/shubio.h
+/home/dennis/tmp/1/linux-3.10.43/arch/ia64/include/asm/sn/shubio.h
+/home/dennis/tmp/1/linux-3.2.1/arch/ia64/include/asm/sn/shubio.h
+/home/dennis/tmp/1/linux-3.18.37/arch/ia64/include/asm/sn/shubio.h
+* file size=130.3Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/soc/codecs/wm8993.h
+/home/dennis/tmp/1/linux-3.10.43/sound/soc/codecs/wm8993.h
+/home/dennis/tmp/1/linux-4.11/sound/soc/codecs/wm8993.h
+/home/dennis/tmp/1/linux-3.18.37/sound/soc/codecs/wm8993.h
+* file size=129.9Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/cifs/smb2maperror.c
+/home/dennis/tmp/1/linux-3.18.37/fs/cifs/smb2maperror.c
+* dir size=129.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/atheros/alx
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/atheros/alx
+* file size=129.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/tuners/mxl5005s.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/tuners/mxl5005s.c
+* file size=128.2Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/cifs/smb2status.h
+/home/dennis/tmp/1/linux-3.10.43/fs/cifs/smb2status.h
+/home/dennis/tmp/1/linux-4.11/fs/cifs/smb2status.h
+/home/dennis/tmp/1/linux-3.18.37/fs/cifs/smb2status.h
+* file size=127.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/broadcom/tg3.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/broadcom/tg3.h
+* file size=127.0Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/rtlwifi/rtl8821ae/table.c
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/realtek/rtlwifi/rtl8821ae/table.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/rtlwifi/rtl8821ae/table.c
+* dir size=126.9Kb
+/home/dennis/tmp/1/linux-3.10.43/sound/synth
+/home/dennis/tmp/1/linux-3.2.1/sound/synth
+* file size=126.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060/src/isp.S
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060/src/isp.S
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060/src/isp.S
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/src/isp.S
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/src/isp.S
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060/src/isp.S
+* file size=126.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/cx231xx/cx231xx-dif.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/usb/cx231xx/cx231xx-dif.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/media/video/cx231xx/cx231xx-dif.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/cx231xx/cx231xx-dif.h
+* dir size=126.0Kb
+/home/dennis/tmp/1/linux-4.1.22/tools/power/cpupower/po
+/home/dennis/tmp/1/linux-3.10.43/tools/power/cpupower/po
+/home/dennis/tmp/1/linux-3.2.1/tools/power/cpupower/po
+/home/dennis/tmp/1/linux-4.11/tools/power/cpupower/po
+/home/dennis/tmp/1/linux-3.18.37/tools/power/cpupower/po
+* file size=125.7Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/ethernet/sun/cassini.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/ethernet/sun/cassini.h
+* file size=125.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/radeon/r600d.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/radeon/r600d.h
+* file size=125.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/sun/cassini.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/sun/cassini.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/sun/cassini.h
+* file size=125.2Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/video/sis/init.c
+/home/dennis/tmp/1/linux-2.6.31/drivers/video/sis/init.c
+* file size=125.0Kb
+/home/dennis/tmp/1/linux-2.6.26/Documentation/uml/UserModeLinux-HOWTO.txt
+/home/dennis/tmp/1/linux-2.6.31/Documentation/uml/UserModeLinux-HOWTO.txt
+* dir size=125.0Kb
+/home/dennis/tmp/1/linux-2.6.26/Documentation/uml
+/home/dennis/tmp/1/linux-2.6.31/Documentation/uml
+* file size=124.4Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/3com/typhoon.bin.ihex
+/home/dennis/tmp/1/linux-3.10.43/firmware/3com/typhoon.bin.ihex
+/home/dennis/tmp/1/linux-3.2.1/firmware/3com/typhoon.bin.ihex
+/home/dennis/tmp/1/linux-4.11/firmware/3com/typhoon.bin.ihex
+/home/dennis/tmp/1/linux-2.6.31/firmware/3com/typhoon.bin.ihex
+/home/dennis/tmp/1/linux-3.18.37/firmware/3com/typhoon.bin.ihex
+* dir size=124.4Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/3com
+/home/dennis/tmp/1/linux-3.10.43/firmware/3com
+/home/dennis/tmp/1/linux-4.11/firmware/3com
+/home/dennis/tmp/1/linux-3.18.37/firmware/3com
+* dir size=124.0Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/cdrom
+/home/dennis/tmp/1/linux-3.18.37/drivers/cdrom
+* dir size=123.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/memstick/core
+/home/dennis/tmp/1/linux-3.18.37/drivers/memstick/core
+* file size=123.2Kb
+/home/dennis/tmp/1/linux-4.1.22/block/cfq-iosched.c
+/home/dennis/tmp/1/linux-3.18.37/block/cfq-iosched.c
+* file size=122.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/sun/niu.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/ethernet/sun/niu.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/ethernet/sun/niu.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/sun/niu.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/sun/niu.h
+* file size=122.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf537/include/mach/cdefBF534.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf537/include/mach/cdefBF534.h
+/home/dennis/tmp/1/linux-3.2.1/arch/blackfin/mach-bf537/include/mach/cdefBF534.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf537/include/mach/cdefBF534.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf537/include/mach/cdefBF534.h
+* file size=122.0Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-3.10.43/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-3.2.1/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-2.6.26/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-4.11/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-2.6.31/fs/hfsplus/tables.c
+/home/dennis/tmp/1/linux-3.18.37/fs/hfsplus/tables.c
+* dir size=121.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/math-emu
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/math-emu
+* file size=120.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/dvb-usb/af9005.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/usb/dvb-usb/af9005.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/dvb-usb/af9005.h
+* file size=120.6Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/media/dvb/dvb-usb/af9005.h
+/home/dennis/tmp/1/linux-2.6.31/drivers/media/dvb/dvb-usb/af9005.h
+* dir size=120.6Kb
+/home/dennis/tmp/1/linux-2.6.26/Documentation/zh_CN
+/home/dennis/tmp/1/linux-2.6.31/Documentation/zh_CN
+* file size=120.4Kb
+/home/dennis/tmp/1/linux-4.1.22/scripts/analyze_suspend.py
+/home/dennis/tmp/1/linux-3.18.37/scripts/analyze_suspend.py
+* file size=120.0Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/virtual/uml/UserModeLinux-HOWTO.txt
+/home/dennis/tmp/1/linux-3.18.37/Documentation/virtual/uml/UserModeLinux-HOWTO.txt
+* dir size=120.0Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/virtual/uml
+/home/dennis/tmp/1/linux-3.18.37/Documentation/virtual/uml
+* file size=119.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/pinctrl/sh-pfc/pfc-sh73a0.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/pinctrl/sh-pfc/pfc-sh73a0.c
+* dir size=119.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/i810
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/i810
+* file size=119.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/rtlwifi/rtl8192de/phy.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/rtlwifi/rtl8192de/phy.c
+* file size=119.4Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/reiserfs/reiserfs.h
+/home/dennis/tmp/1/linux-4.11/fs/reiserfs/reiserfs.h
+* file size=119.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/qla4xxx/ql4_nx.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/qla4xxx/ql4_nx.c
+* dir size=119.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/dlink
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/dlink
+* file size=119.0Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/devices.txt
+/home/dennis/tmp/1/linux-3.18.37/Documentation/devices.txt
+* file size=118.9Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/arm/nwfpe/softfloat.c
+/home/dennis/tmp/1/linux-3.10.43/arch/arm/nwfpe/softfloat.c
+/home/dennis/tmp/1/linux-3.2.1/arch/arm/nwfpe/softfloat.c
+/home/dennis/tmp/1/linux-4.11/arch/arm/nwfpe/softfloat.c
+/home/dennis/tmp/1/linux-3.18.37/arch/arm/nwfpe/softfloat.c
+* file size=118.9Kb
+/home/dennis/tmp/1/linux-2.6.26/arch/arm/nwfpe/softfloat.c
+/home/dennis/tmp/1/linux-2.6.31/arch/arm/nwfpe/softfloat.c
+* file size=117.8Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/tehuti/bdx.bin.ihex
+/home/dennis/tmp/1/linux-3.10.43/firmware/tehuti/bdx.bin.ihex
+/home/dennis/tmp/1/linux-3.2.1/firmware/tehuti/bdx.bin.ihex
+/home/dennis/tmp/1/linux-4.11/firmware/tehuti/bdx.bin.ihex
+/home/dennis/tmp/1/linux-2.6.31/firmware/tehuti/bdx.bin.ihex
+/home/dennis/tmp/1/linux-3.18.37/firmware/tehuti/bdx.bin.ihex
+* dir size=117.8Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/tehuti
+/home/dennis/tmp/1/linux-3.10.43/firmware/tehuti
+/home/dennis/tmp/1/linux-3.2.1/firmware/tehuti
+/home/dennis/tmp/1/linux-4.11/firmware/tehuti
+/home/dennis/tmp/1/linux-2.6.31/firmware/tehuti
+/home/dennis/tmp/1/linux-3.18.37/firmware/tehuti
+* dir size=117.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/aic7xxx/aicasm
+/home/dennis/tmp/1/linux-3.18.37/drivers/scsi/aic7xxx/aicasm
+* dir size=117.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/tile/include/gxio
+/home/dennis/tmp/1/linux-4.11/arch/tile/include/gxio
+* file size=116.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/pinctrl/sh-pfc/pfc-r8a7740.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/pinctrl/sh-pfc/pfc-r8a7740.c
+* dir size=116.5Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/arm/mach-lpc32xx
+/home/dennis/tmp/1/linux-3.18.37/arch/arm/mach-lpc32xx
+* dir size=116.4Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/ia64/lib
+/home/dennis/tmp/1/linux-3.10.43/arch/ia64/lib
+/home/dennis/tmp/1/linux-3.2.1/arch/ia64/lib
+/home/dennis/tmp/1/linux-3.18.37/arch/ia64/lib
+* file size=116.1Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/ethernet/chelsio/cxgb3/t3_hw.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/chelsio/cxgb3/t3_hw.c
+* dir size=116.1Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/filesystems/caching
+/home/dennis/tmp/1/linux-3.18.37/Documentation/filesystems/caching
+* file size=115.9Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/serial/io_fw_down.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/serial/io_fw_down.h
+* file size=114.3Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/jfs/jfs_dmap.c
+/home/dennis/tmp/1/linux-4.11/fs/jfs/jfs_dmap.c
+/home/dennis/tmp/1/linux-3.18.37/fs/jfs/jfs_dmap.c
+* file size=113.7Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/tile/kernel/tile-desc_32.c
+/home/dennis/tmp/1/linux-3.10.43/arch/tile/kernel/tile-desc_32.c
+/home/dennis/tmp/1/linux-3.2.1/arch/tile/kernel/tile-desc_32.c
+/home/dennis/tmp/1/linux-4.11/arch/tile/kernel/tile-desc_32.c
+/home/dennis/tmp/1/linux-3.18.37/arch/tile/kernel/tile-desc_32.c
+* file size=113.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/ath/wcn36xx/hal.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/ath/wcn36xx/hal.h
+* file size=113.3Kb
+/home/dennis/tmp/1/linux-2.6.11.10/include/asm-arm/arch-sa1100/SA-1100.h
+/home/dennis/tmp/1/linux-2.6.26/include/asm-arm/arch-sa1100/SA-1100.h
+* file size=113.3Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/usb/gspca/vc032x.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/gspca/vc032x.c
+* file size=112.9Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/tty/cyclades.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/tty/cyclades.c
+* file size=112.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/lustre/lustre/include/cl_object.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/lustre/lustre/include/cl_object.h
+* file size=112.6Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-3.10.43/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-3.2.1/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-2.6.26/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-4.11/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-2.6.31/Documentation/networking/arcnet-hardware.txt
+/home/dennis/tmp/1/linux-3.18.37/Documentation/networking/arcnet-hardware.txt
+* file size=112.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/iwlegacy/commands.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/wireless/intel/iwlegacy/commands.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/iwlegacy/commands.h
+* file size=112.0Kb
+/home/dennis/tmp/1/linux-2.6.11.10/include/video/radeon.h
+/home/dennis/tmp/1/linux-2.6.26/include/video/radeon.h
+* dir size=111.8Kb
+/home/dennis/tmp/1/linux-4.1.22/firmware/yamaha
+/home/dennis/tmp/1/linux-3.10.43/firmware/yamaha
+/home/dennis/tmp/1/linux-3.2.1/firmware/yamaha
+/home/dennis/tmp/1/linux-4.11/firmware/yamaha
+/home/dennis/tmp/1/linux-2.6.31/firmware/yamaha
+/home/dennis/tmp/1/linux-3.18.37/firmware/yamaha
+* file size=111.8Kb
+/home/dennis/tmp/1/linux-4.1.22/include/video/radeon.h
+/home/dennis/tmp/1/linux-3.10.43/include/video/radeon.h
+/home/dennis/tmp/1/linux-3.2.1/include/video/radeon.h
+/home/dennis/tmp/1/linux-4.11/include/video/radeon.h
+/home/dennis/tmp/1/linux-2.6.31/include/video/radeon.h
+/home/dennis/tmp/1/linux-3.18.37/include/video/radeon.h
+* dir size=111.6Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/ja_JP
+/home/dennis/tmp/1/linux-3.18.37/Documentation/ja_JP
+* file size=111.6Kb
+/home/dennis/tmp/1/linux-2.6.26/fs/jfs/jfs_dmap.c
+/home/dennis/tmp/1/linux-2.6.31/fs/jfs/jfs_dmap.c
+* file size=111.3Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/arch-v32/drivers/cryptocop.c
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/arch-v32/drivers/cryptocop.c
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/arch-v32/drivers/cryptocop.c
+* file size=111.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/staging/xgifb/vb_table.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/staging/xgifb/vb_table.h
+* dir size=110.8Kb
+/home/dennis/tmp/1/linux-3.10.43/Documentation/development-process
+/home/dennis/tmp/1/linux-3.2.1/Documentation/development-process
+* file size=110.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/ath/ath6kl/wmi.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/ath/ath6kl/wmi.c
+* dir size=110.6Kb
+/home/dennis/tmp/1/linux-4.1.22/Documentation/development-process
+/home/dennis/tmp/1/linux-3.18.37/Documentation/development-process
+* file size=110.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/ath/ath5k/phy.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/ath/ath5k/phy.c
+* file size=110.6Kb
+/home/dennis/tmp/1/linux-3.10.43/drivers/atm/iphase.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/atm/iphase.c
+* dir size=110.2Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/sh/kernel/cpu/sh2a
+/home/dennis/tmp/1/linux-3.18.37/arch/sh/kernel/cpu/sh2a
+* file size=110.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+/home/dennis/tmp/1/linux-3.10.43/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+/home/dennis/tmp/1/linux-3.2.1/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+/home/dennis/tmp/1/linux-4.11/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+/home/dennis/tmp/1/linux-3.18.37/arch/blackfin/mach-bf561/include/mach/cdefBF561.h
+* dir size=110.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/char/mwave
+/home/dennis/tmp/1/linux-3.18.37/drivers/char/mwave
+* dir size=109.4Kb
+/home/dennis/tmp/1/linux-3.10.43/include/linux/mfd/wm8350
+/home/dennis/tmp/1/linux-3.18.37/include/linux/mfd/wm8350
+* dir size=109.3Kb
+/home/dennis/tmp/1/linux-4.1.22/net/dccp/ccids
+/home/dennis/tmp/1/linux-3.18.37/net/dccp/ccids
+* file size=108.1Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/video/fbdev/sis/init.c
+/home/dennis/tmp/1/linux-4.11/drivers/video/fbdev/sis/init.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/video/fbdev/sis/init.c
+* file size=107.5Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/dvb-frontends/stv0900_reg.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/dvb-frontends/stv0900_reg.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/stv0900_reg.h
+* dir size=107.1Kb
+/home/dennis/tmp/1/linux-3.10.43/sound/drivers/opl4
+/home/dennis/tmp/1/linux-3.18.37/sound/drivers/opl4
+* file size=106.8Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/sfc/farch_regs.h
+/home/dennis/tmp/1/linux-4.11/drivers/net/ethernet/sfc/farch_regs.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/sfc/farch_regs.h
+* file size=106.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/wireless/hostap/hostap_ioctl.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/wireless/hostap/hostap_ioctl.c
+* file size=106.2Kb
+/home/dennis/tmp/1/linux-2.6.11.10/drivers/usb/serial/io_fw_down2.h
+/home/dennis/tmp/1/linux-2.6.26/drivers/usb/serial/io_fw_down2.h
+* dir size=105.8Kb
+/home/dennis/tmp/1/linux-4.1.22/include/math-emu
+/home/dennis/tmp/1/linux-4.11/include/math-emu
+/home/dennis/tmp/1/linux-3.18.37/include/math-emu
+* file size=105.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-4.11/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/src/itest.S
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060/src/itest.S
+* dir size=105.6Kb
+/home/dennis/tmp/1/linux-3.10.43/include/math-emu
+/home/dennis/tmp/1/linux-3.2.1/include/math-emu
+* file size=105.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/3com/3c59x.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/3com/3c59x.c
+* file size=104.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/tile/include/hv/netio_intf.h
+/home/dennis/tmp/1/linux-3.10.43/arch/tile/include/hv/netio_intf.h
+/home/dennis/tmp/1/linux-3.2.1/arch/tile/include/hv/netio_intf.h
+/home/dennis/tmp/1/linux-4.11/arch/tile/include/hv/netio_intf.h
+/home/dennis/tmp/1/linux-3.18.37/arch/tile/include/hv/netio_intf.h
+* file size=104.4Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/radeon/radeon_combios.c
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/radeon/radeon_combios.c
+* dir size=104.3Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/pci/ngene
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/pci/ngene
+* dir size=104.1Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/avr32/boards
+/home/dennis/tmp/1/linux-3.18.37/arch/avr32/boards
+* file size=103.0Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/net/ethernet/marvell/skge.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/net/ethernet/marvell/skge.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/net/ethernet/marvell/skge.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/net/ethernet/marvell/skge.h
+* file size=103.0Kb
+/home/dennis/tmp/1/linux-2.6.26/drivers/net/skge.h
+/home/dennis/tmp/1/linux-2.6.31/drivers/net/skge.h
+* file size=102.6Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/ntfs/super.c
+/home/dennis/tmp/1/linux-3.18.37/fs/ntfs/super.c
+* file size=101.9Kb
+/home/dennis/tmp/1/linux-4.1.22/fs/ntfs/mft.c
+/home/dennis/tmp/1/linux-3.10.43/fs/ntfs/mft.c
+/home/dennis/tmp/1/linux-3.18.37/fs/ntfs/mft.c
+* dir size=101.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/usb/gspca/gl860
+/home/dennis/tmp/1/linux-4.11/drivers/media/usb/gspca/gl860
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/usb/gspca/gl860
+* file size=101.7Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/dvb-frontends/stv090x_reg.h
+/home/dennis/tmp/1/linux-3.10.43/drivers/media/dvb-frontends/stv090x_reg.h
+/home/dennis/tmp/1/linux-3.2.1/drivers/media/dvb/frontends/stv090x_reg.h
+/home/dennis/tmp/1/linux-4.11/drivers/media/dvb-frontends/stv090x_reg.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/stv090x_reg.h
+* file size=101.6Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/scsi/megaraid/megaraid_mbox.c
+/home/dennis/tmp/1/linux-4.11/drivers/scsi/megaraid/megaraid_mbox.c
+* file size=101.6Kb
+/home/dennis/tmp/1/linux-4.1.22/sound/pci/emu10k1/emufx.c
+/home/dennis/tmp/1/linux-4.11/sound/pci/emu10k1/emufx.c
+* file size=100.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/x86/crypto/aesni-intel_avx-x86_64.S
+/home/dennis/tmp/1/linux-3.18.37/arch/x86/crypto/aesni-intel_avx-x86_64.S
+* dir size=100.8Kb
+/home/dennis/tmp/1/linux-4.1.22/arch/tile/lib
+/home/dennis/tmp/1/linux-3.18.37/arch/tile/lib
+* dir size=100.2Kb
+/home/dennis/tmp/1/linux-4.1.22/drivers/gpu/drm/mga
+/home/dennis/tmp/1/linux-3.18.37/drivers/gpu/drm/mga
