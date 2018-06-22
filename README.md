@@ -4,14 +4,9 @@
 
 Written in Python 2.x.
 
-So far, only for Linux.
+So far, only for Linux, sorry.
 
 Finds both duplicate files and directories.
-
-Here is an example: the script processed Linux kernel source trees for versions 
-2.6.11.10, 2.6.26, 2.6.31, 3.10.43, 3.18.37, 3.2.1, 4.11, 4.1.22.
-https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt
-Now you can see what hasn't been modified across several Linux kernel versions (larger than 100KB).
 
 ## For users
 
@@ -26,6 +21,12 @@ Or:
 Multiple directories allowed:
 
 	./ddff.py ~/Music /mnt/external_HDD/Music
+
+Here is an example: the script processed Linux kernel source trees for versions 
+2.6.11.10, 2.6.26, 2.6.31, 3.10.43, 3.18.37, 3.2.1, 4.11, 4.1.22.
+https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt
+
+Now you can see what hasn't been modified across several Linux kernel versions (larger than 100KB).
 
 ## Internals, etc
 
