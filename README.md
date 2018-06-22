@@ -19,6 +19,9 @@ If entropy of these 5 spots are suspiciosly low (less than 7 bits per byte), the
 Read more about entropy in my ["Reverse Engineering for Beginners"](https://beginners.re/) book.
 If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file.
 
+By default, only files/directories larger than 1MB are dumped.
+Modify LIMIT variable in ddff.py to change this.
+
 Directories are compared using Merkle trees,
 read [here](https://github.com/DennisYurichev/DDFF2/blob/master/compare_two_folders.md) about my short example, what this is.
 Merkle trees are also used in torrents and blockchains.
@@ -33,7 +36,7 @@ However, if you reorganize your file structure significantly, you can kill it.
 
 The interface of the script is somewhat user-unfriendly.
 I did the script just for myself.
-If someone wants to make more, like GUI, win32 version, etc, take it and modify it freely.
+If someone wants to do more, like GUI, win32 version, etc, take it and modify it freely.
 Or write new, using these algorithms.
 
 Also, my old C++ version is [here](https://github.com/DennisYurichev/DDFF).
