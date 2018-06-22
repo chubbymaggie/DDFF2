@@ -25,7 +25,7 @@ Merkle trees are also used in torrents.
 I.e., SHA256 hash is also calculated for all directories.
 
 File hashes are then stored (serialized) into ddff.db file (Python's pickle library is used).
-Preserve it, so DDFF will not need to reread file again.
+Preserve it, so DDFF will not need to reread a file again.
 However, if you reorganize your file structure significantly, you can kill it.
 
 The interface of the script is somewhat user-unfriendly.
