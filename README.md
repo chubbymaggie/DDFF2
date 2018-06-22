@@ -28,6 +28,9 @@ https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt
 
 Now you can see what hasn't been modified across several Linux kernel versions (larger than 100KB).
 
+By default, only files/directories larger than 1MB are dumped.
+Modify LIMIT variable in ddff.py to change this.
+
 ## Internals, etc
 
 Files are not compared as a wholes, rather 5 4Kb consequtive spots are taken from it and then hashed using SHA256.
@@ -40,9 +43,6 @@ If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full ha
 Rationale: for compressed files, only these 5 4KB spots are seems to be enough, maybe even less.
 However, a patched byte(s) in low-entropy text/executable file can be located between spots and 
 files would be treated as similar, erroneously.
-
-By default, only files/directories larger than 1MB are dumped.
-Modify LIMIT variable in ddff.py to change this.
 
 Directories are compared using Merkle trees,
 read [here](https://github.com/DennisYurichev/DDFF2/blob/master/compare_two_folders.md) about my short example, what this is.
