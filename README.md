@@ -17,7 +17,7 @@ Files are not compared as a wholes, rather 5 4Kb consequtive spots are taken fro
 Hashes are then compared.
 If entropy of these 5 spots are suspiciosly low (less than 7 bits per byte), the whole file is hashed.
 Read more about entropy in my ["Reverse Engineering for Beginners"](https://beginners.re/) book.
-If you feel paranoid, turn on "PARANOID" option in the ddff.py file.
+If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file.
 
 Directories are compared using Merkle trees,
 read [here](https://github.com/DennisYurichev/DDFF2/blob/master/compare_two_folders.md) about my short example, what this is.
@@ -25,6 +25,8 @@ Merkle trees are also used in torrents.
 I.e., SHA256 hash is also calculated for all directories.
 
 File hashes are then stored (serialized) into ddff.db file (Python's pickle library is used).
+This is a text file, you can see there filenames, SHA256 hashes, modify time for each file and which hash (full/partial)
+is stored.
 Preserve it, so DDFF will not need to reread a file again.
 However, if you reorganize your file structure significantly, you can kill it.
 
