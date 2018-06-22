@@ -15,6 +15,7 @@ Now you can see what hasn't been modified across several Linux kernel versions (
 
 Files are not compared as a wholes, rather 5 4Kb consequtive spots are taken from it and then hashed using SHA256.
 Hashes are then compared.
+Surely, file/directory names are not compared.
 If entropy of these 5 spots are suspiciosly low (less than 7 bits per byte), the whole file is hashed.
 Read more about entropy in my ["Reverse Engineering for Beginners"](https://beginners.re/) book.
 If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file.
