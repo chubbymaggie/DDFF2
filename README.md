@@ -20,6 +20,10 @@ If entropy of these 5 spots are suspiciosly low (less than 7 bits per byte), the
 Read more about entropy in my ["Reverse Engineering for Beginners"](https://beginners.re/) book.
 If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file.
 
+Rationale: for compressed files, only these 5 4KB spots are seems to be enough, maybe even less.
+However, a patched byte(s) in low-entropy text/executable file can be located between spots and 
+files would be treated as similar, erroneously.
+
 By default, only files/directories larger than 1MB are dumped.
 Modify LIMIT variable in ddff.py to change this.
 
