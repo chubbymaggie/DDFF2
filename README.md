@@ -26,7 +26,7 @@ Here is an example: the script processed Linux kernel source trees for versions
 2.6.11.10, 2.6.26, 2.6.31, 3.10.43, 3.18.37, 3.2.1, 4.11, 4.1.22.
 
 ```
-* dir size=5.9MB                                                                                                                  
+* dir size=5.9MB
 /home/dennis/tmp/1/linux-4.1.22/firmware
 /home/dennis/tmp/1/linux-3.18.37/firmware
 * dir size=3.5MB
@@ -59,7 +59,9 @@ Here is an example: the script processed Linux kernel source trees for versions
 /home/dennis/tmp/1/linux-4.1.22/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
 /home/dennis/tmp/1/linux-4.11/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
 /home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+
 ...
+
 ```
 ( https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt )
 
