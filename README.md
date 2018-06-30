@@ -24,12 +24,49 @@ Multiple directories allowed:
 
 Here is an example: the script processed Linux kernel source trees for versions 
 2.6.11.10, 2.6.26, 2.6.31, 3.10.43, 3.18.37, 3.2.1, 4.11, 4.1.22.
-https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt
+
+```
+* dir size=5.9MB                                                                                                                  
+/home/dennis/tmp/1/linux-4.1.22/firmware
+/home/dennis/tmp/1/linux-3.18.37/firmware
+* dir size=3.5MB
+/home/dennis/tmp/1/linux-4.1.22/fs/nls
+/home/dennis/tmp/1/linux-4.11/fs/nls
+/home/dennis/tmp/1/linux-3.18.37/fs/nls
+* dir size=2.3MB
+/home/dennis/tmp/1/linux-4.1.22/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.10.43/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.2.1/arch/m68k/ifpsp060
+/home/dennis/tmp/1/linux-3.18.37/arch/m68k/ifpsp060
+* dir size=1.8MB
+/home/dennis/tmp/1/linux-2.6.26/arch/m68k/ifpsp060/src
+/home/dennis/tmp/1/linux-2.6.31/arch/m68k/ifpsp060/src
+* dir size=1.7MB
+/home/dennis/tmp/1/linux-4.1.22/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.10.43/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.2.1/firmware/bnx2x
+/home/dennis/tmp/1/linux-4.11/firmware/bnx2x
+/home/dennis/tmp/1/linux-3.18.37/firmware/bnx2x
+* dir size=1.1MB
+/home/dennis/tmp/1/linux-4.1.22/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-3.10.43/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-4.11/arch/cris/include/arch-v32/arch/hwregs
+/home/dennis/tmp/1/linux-3.18.37/arch/cris/include/arch-v32/arch/hwregs
+* file size=1.1MB
+/home/dennis/tmp/1/linux-4.1.22/crypto/testmgr.h
+/home/dennis/tmp/1/linux-3.18.37/crypto/testmgr.h
+* file size=1.0MB
+/home/dennis/tmp/1/linux-4.1.22/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+/home/dennis/tmp/1/linux-4.11/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+/home/dennis/tmp/1/linux-3.18.37/drivers/media/dvb-frontends/drx39xyj/drxj_map.h
+...
+```
+( https://github.com/DennisYurichev/DDFF2/blob/master/linux_ddff.txt )
 
 Now you can see what hasn't been modified across several Linux kernel versions (larger than 100KB).
 
 By default, only files/directories larger than 1MB are dumped.
-Modify LIMIT variable in ddff.py to change this.
+Modify the LIMIT variable in ddff.py to change this.
 
 ## Internals, etc
 
@@ -38,7 +75,7 @@ Hashes are then compared.
 Surely, file/directory names are not compared.
 If entropy of these 5 spots are suspiciosly low (less than 7 bits per byte), the whole file is hashed.
 Read more about entropy in my ["Reverse Engineering for Beginners"](https://beginners.re/) book.
-If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file.
+If you feel paranoid, turn on "PARANOID" option in the ddff.py file, and full hashes will be calculated for each file (this is just slow, especially for videos).
 
 Rationale: for compressed files, only these 5 4KB spots are seems to be enough, maybe even less.
 However, a patched byte(s) in low-entropy text/executable file can be located between spots and 

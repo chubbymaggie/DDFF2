@@ -220,6 +220,7 @@ def dump_all():
         f.write("* "+r[0]+" size="+nice_size(r[1])+"\n")
         for x in r[2]:
             f.write(x+"\n")
+        f.write("\n")
         t=";".join(sorted(r[2]))
         #print t
         results_dumped.add(t)
